@@ -13,24 +13,36 @@
 
     <body>
         <div class="container">
+        <header>
+            <div class="row" style="padding-top: 10px;">
+                <div class="col s12 m4">
+                    <img class="responsive-img" src="img/logo-klein2.png">
+                </div>
+                <div class="col s12 m8">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- SM2 top banner -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-9427996168948323"
+                             data-ad-slot="4161807427"
+                             data-ad-format="auto"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </div>
+            </div>
             <nav>
                 <div class="nav-wrapper">
-                    <a href="#!" class="brand-logo">Logo</a>
-                    <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
                     <ul class="right hide-on-med-and-down">
-                        <li><a href="sass.html">Sass</a></li>
-                        <li><a href="badges.html">Components</a></li>
-                        <li><a href="collapsible.html">Javascript</a></li>
-                        <li><a href="mobile.html">Mobile</a></li>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Categorieen</a></li>
+                        <li><a href=#">Contact</a></li>
                     </ul>
-                    <ul class="side-nav" id="mobile-demo">
-                        <li><a href="sass.html">Sass</a></li>
-                        <li><a href="badges.html">Components</a></li>
-                        <li><a href="collapsible.html">Javascript</a></li>
-                        <li><a href="mobile.html">Mobile</a></li>
-                    </ul>
+                    <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
                 </div>
-            </nav>
+            </nav>  
+        </header>
             <div class="row">
                 <div class="col s12 m4">
                     <div class="card small">
