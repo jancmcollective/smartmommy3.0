@@ -1,29 +1,52 @@
-<footer class="page-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col l6 s12">
-                        <h5 class="white-text">Footer Content</h5>
-                        <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+<br/><br/>
+<!--<footer>
+    <div class="row">
+        <div class="col-md-12">
+                <div class="container">
+                    <div class="col-md-3">
+                        <img class="responsive-img" src="img/2017/05/featured1.jpg" alt=""/>
+                        <h2>Leuke stoeltjes</h2>
                     </div>
-                    <div class="col l4 offset-l2 s12">
-                        <h5 class="white-text">Links</h5>
+                    <div class="col-md-3">
+                        <img class="responsive-img" src="img/2017/05/featured2.jpg" alt=""/>
+                        <h2>Leuke stoeltjes</h2>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Categorien:</h3>
                         <ul>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                            <li><a href=""><i class="fa fa-file"></i> News</a></li>
+                            <li><a href=""><i class="fa fa-android"></i> Android</a></li>
+                            <li><a href=""><i class="fa fa-code"></i> C#</a></li>
+                            <li><a href=""><i class="fa fa-code"></i> Java</a></li>
+                            <li><a href=""><i class="fa fa-book"></i> Books</a></li>
+                            <li><a href=""><i class="fa fa-globe"></i> Web</a></li>
+                            <li><a href=""><i class="fa fa-windows"></i> Windows</a></li>
                         </ul>
                     </div>
-                </div>
-            </div>
-            <div class="footer-copyright">
-                <div class="container">
-                    © 2014 Copyright Text
-                    <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
-                </div>
-            </div>
-        </footer>
+                    <div class="col-md-3" style="max-height: 350px">
 
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                         SM2 top banner 
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-9427996168948323"
+                             data-ad-slot="4161807427"
+                             data-ad-format="auto"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+
+                    </div>
+                    <br/>
+
+                    <hr>
+                    <p>Copyright © Your Website | <a href="">Privacy Policy</a> | <a href="">Terms of Use</a></p>
+                </div>
+
+        </div>
+    </div>
+</footer>-->
 <!--Materialize-->
 <!--        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
         <script type="text/javascript" src="js/materialize.min.js"></script>-->

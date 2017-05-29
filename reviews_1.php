@@ -22,8 +22,11 @@
             </div>
         </div>
                 <div class="row">
-                    <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2 productprice">
-                        <h3 style="vertical-align: middle">Adviesprijs €24,95</h3>
+                    <div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-2">
+                        <h3>Nijntje dansende blokjes spel</h3>
+                    </div>
+                    <div class="col-xs-10 col-xs-offset-1 col-md-4">
+                        <h3>Adviesprijs €24,95</h3>
                     </div>
                 </div>
                 <div class="row">
@@ -46,7 +49,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2 center">
+                    <div class="col-xs-12 col-md-8 col-md-offset-2 center">
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
                         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- SM2 top banner -->
@@ -68,21 +71,6 @@
                         <strong class="text-sm">Nijntje dansende blokjes spel een spannend en uitdagend spel voor het hele gezin…</strong>
                         <p class="text-justify">Het spel is nog verder uit te breiden om niet alleen met de blokken te spelen maar ook met de kaartjes erbij. Met de kaartjes erbij wordt het een stuk lastiger. Nu moet je kindje op zoek naar de 2 blokjes die op het kaartjes afgebeeld staan. Wie uiteindelijk aan het einde van het spel de meeste blokken heeft is de winnaar.
                             Bij het Nijntje dansende blokjes spel is het belangrijk snel te kiezen. En de juiste blokken te pakken. Je kindje heeft namelijk maar 4 seconden om de juiste blokken te pakken voor het spel weer gaat dansen. Dit maakt het Nijntje dansende blokjes spel zeer spannend en uitdagend. Het is namelijk nooit het zelfde. Zij jullie klaar voor dit super gezellige spel om samen te spelen.</p>
-                        <div class="row">
-                    <div class="col-xs-12 col-md-8 col-md-offset-2 center">
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
-                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                        <!-- SM2 top banner -->
-                        <ins class="adsbygoogle"
-                             style="display:block"
-                             data-ad-client="ca-pub-9427996168948323"
-                             data-ad-slot="4161807427"
-                             data-ad-format="auto"></ins>
-                        <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
-                </div>
-                </div>
                         <img  class="responsive-img center-block" src="img/2017/05/Nijntje-dansende-blokjes-3.jpg" alt="...">
                         <strong class="text-sm">Dit spel is geschikt voor kinderen vanaf 3 jaar…</strong>
                         <p class="text-justify">Het Nijntje dansende blokjes spel is geschikt vanaf 3 jaar en is te spelen met 2 tot 4 spelers. Dit spel werkt op 3 AA batterijen. Niet inbegrepen dus welk belangrijk hier rekening mee te houden.</p>
