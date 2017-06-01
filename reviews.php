@@ -36,12 +36,19 @@
                             <dd>- Memorie in een nieuw jasje</dd>
                             <dd>- Spannend en uitdagend spel</dd>
                         </dl>
-                        <br>
                         <dl>
                             <dt class="text-danger">Minpunten</dt>
                             <dd>- Eindeloos speelplezier</dd>
                             <dd>- Memorie in een nieuw jasje</dd>
                             <dd>- Spannend en uitdagend spel</dd>
+                        </dl>
+                        <dl>
+                            <dt class="text-info">Cijfers</dt>
+                            <dd>- Gebruiksvriendelijkheid: </dd>
+                            <dd>- Kwaliteit: </dd>
+                            <dd>- Duurzaamheid: </dd>
+                            <dd>- Prijs/kwaliteit: </dd>
+                            <dd>- Overall: </dd>
                         </dl>
                     </div>
                 </div>
@@ -91,13 +98,14 @@
                         <p class="text-justify">Is dit niet het spelletje dat je zocht? Wij hebben nog meer spelletjes op de site staan, waar wij inmiddels ervaringen van ouders hebben mogen ontvangen.</p>
                     </div>
                 </div>
-                <row>
-                    <div class="col-xs-12 col-md-8 col-md-offset-2 center">
-                        <button class="btn btn-primary btn-lg btn-block">Nu kopen!</button>
+                <div class="row">
+                    <div class="col-xs-12 col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1 center">
+                        <button class="btn btn-primary btn-lg btn-block">Nu kopen!</button><br>
                     </div>
-                </row>
+                </div>
             </div>
         </div>
         <?php include 'footer.php'; ?>
+
     </body>
 </html>

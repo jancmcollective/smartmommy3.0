@@ -142,3 +142,39 @@ body {
     color: white;
     text-align: center;
 }
+
+.footer-background {
+    background-color: #F27170;
+}
+
+/*carousel buttons*/
+.carousel {
+  max-height: 700px;
+  overflow: hidden;
+
+  .item img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.thumbnail-sm {
+    border: 1px solid white;
+}
+@media (max-width: 767px) {
+    .image-sm {
+        height: 380px;
+    }
+    .adsense {
+        margin-bottom: 15px;
+        height: 120px;
+    }
+    .fixed-height {
+        max-height:470px !important;
+        min-height: 470px !important;
+    }
+}
+
+   .adsense {
+    margin-bottom: 15px;
+}

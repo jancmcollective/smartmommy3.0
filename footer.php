@@ -1,17 +1,29 @@
-<br/><br/>
-<!--<footer>
-    <div class="row">
-        <div class="col-md-12">
-                <div class="container">
-                    <div class="col-md-3">
-                        <img class="responsive-img" src="img/2017/05/featured1.jpg" alt=""/>
-                        <h2>Leuke stoeltjes</h2>
+<footer class="footer-background">
+            <div class="container">
+                <div class="row">
+                    <h3 class="white">
+                        Meest gelezen berichten
+                    </h3>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 col-xs-12">
+                        <div class="thumbnail">
+                            <img src="img/2017/05/featured1.jpg" alt=""/>
+                            <div class="caption">
+                                Leuke stoeltjes die je helemaal zelf kan maken
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-3">
-                        <img class="responsive-img" src="img/2017/05/featured2.jpg" alt=""/>
-                        <h2>Leuke stoeltjes</h2>
+                    <div class="col-md-3 col-xs-12">
+                        <div class="thumbnail">
+                          <img src="img/2017/05/featured2.jpg" alt=""/>  
+                          <div class="caption">
+                                De 20 mooiste exotische namen van 2017
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-3">
+                    
+<!--                    <div class="col-md-2">
                         <h3>Categorien:</h3>
                         <ul>
                             <li><a href=""><i class="fa fa-file"></i> News</a></li>
@@ -22,31 +34,29 @@
                             <li><a href=""><i class="fa fa-globe"></i> Web</a></li>
                             <li><a href=""><i class="fa fa-windows"></i> Windows</a></li>
                         </ul>
-                    </div>
-                    <div class="col-md-3" style="max-height: 350px">
-
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+                    </div>-->
+                    <div class="col-md-3 col-xs-12 center">
                         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                         SM2 top banner 
+                        <!-- SM2 mobiel top -->
                         <ins class="adsbygoogle"
-                             style="display:block"
+                             style="display:inline-block;width:320px;height:320px"
                              data-ad-client="ca-pub-9427996168948323"
-                             data-ad-slot="4161807427"
-                             data-ad-format="auto"></ins>
+                             data-ad-slot="4409899024"></ins>
                         <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
+                            (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
 
                     </div>
-                    <br/>
-
-                    <hr>
-                    <p>Copyright © Your Website | <a href="">Privacy Policy</a> | <a href="">Terms of Use</a></p>
                 </div>
-
-        </div>
-    </div>
-</footer>-->
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                    <hr> 
+                    <p class="text-center">Copyright © Smart Mommy 2017</p>
+                    </div>
+                    
+                </div> 
+            </div>
+</footer>
 <!--Materialize-->
 <!--        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
         <script type="text/javascript" src="js/materialize.min.js"></script>-->
